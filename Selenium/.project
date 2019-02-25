@@ -16,11 +16,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>testng.xml</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/git/MorBAtchSelenium/SeleniumActtimeFramework/testng.xml</locationURI>
-		</link>
-		<link>
 			<name>resource/IEDriverServer.exe</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/git/MorBAtchSelenium/SeleniumActtimeFramework/resource/IEDriverServer.exe</locationURI>
