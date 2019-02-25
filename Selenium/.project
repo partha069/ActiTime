@@ -25,20 +25,5 @@
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/git/MorBAtchSelenium/SeleniumActtimeFramework/resource/chromedriver.exe</locationURI>
 		</link>
-		<link>
-			<name>testdata/commondata.properties</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/git/MorBAtchSelenium/SeleniumActtimeFramework/testdata/commondata.properties</locationURI>
-		</link>
-		<link>
-			<name>testdata/testData.xlsx</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/git/MorBAtchSelenium/SeleniumActtimeFramework/testdata/testData.xlsx</locationURI>
-		</link>
-		<link>
-			<name>testdata/~$testData.xlsx</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/git/MorBAtchSelenium/SeleniumActtimeFramework/testdata/~$testData.xlsx</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>
