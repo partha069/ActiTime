@@ -1,7 +1,5 @@
 package com.actime.customertest;
 
-import java.awt.PageAttributes;
-
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
